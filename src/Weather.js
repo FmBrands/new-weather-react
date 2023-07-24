@@ -80,7 +80,13 @@ export default function Weather() {
           </div>
         </div>
         <div className="text-center">
-          <small>Open-source code by, Modupe Folarin (FmBrands)</small>
+          <small>
+            Open-source code by,{" "}
+            <a href="https://github.com/FmBrands/new-weather-react ">
+              {" "}
+              Modupe Folarin (FmBrands)
+            </a>{" "}
+          </small>
         </div>
       </div>
     </div>
