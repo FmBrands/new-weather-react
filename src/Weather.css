@@ -78,3 +78,8 @@ li ::first-letter {
 .weather-temperature .active :hover {
   text-decoration: none;
 }
+.flex {
+  margin-right: 50px;
+  margin-top: -60px;
+  float: right;
+}

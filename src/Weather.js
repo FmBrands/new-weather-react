@@ -66,7 +66,7 @@ export default function Weather() {
                 </div>
               </div>
             </div>
-            <div className="col-6">
+            <div className="col-6 flex">
               <ul>
                 <li>
                   Humidity: <span id="humidity">{weatherData.humidity}</span>%
